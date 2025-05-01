@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "names",
+  "info": {
+    "singularName": "name",
+    "pluralName": "names",
+    "displayName": "name"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
